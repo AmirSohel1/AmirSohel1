@@ -91,8 +91,9 @@
 ### 🐍 Snake Eating My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmirSohel1/AmirSohel1/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AmirSohel1/AmirSohel1/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
 
 ---
 
