@@ -62,14 +62,36 @@
 
 ---
 
-### 📜 Certifications
+## 📚 Certifications & Courses
 
+### 👨‍💻 Programming & Software Development
+- ☕️ **Java Programming Fundamentals** – *Infosys*
 - 🧰 **Java Programming: Arrays, Lists, and Structured Data** – *Coursera*
-- 💽 **Database Management System** – *Infosys Springboard*
-- 🌐 **Network Fundamentals** – *Infosys*
-- 🐍 **Python for Data Science** – *Coursera*
+- 🧱 **Object Oriented Programming in Java** – *Coursera*
+- 🐍 **Introduction to Python** – *Infosys*
+- 🧮 **Programming Fundamentals using Python – Part 1** – *Infosys*
+- 🧮 **Programming Fundamentals using Python – Part 2** – *Infosys*
+- 🧠 **Python for Data Science** – *Coursera*
 
----
+### 🤖 Artificial Intelligence & Machine Learning
+- 🌐 **Introduction to Artificial Intelligence (AI)** – *Coursera*
+- 🤖 **Machine Learning with TensorFlow** – *Infosys*
+- 💬 **Natural Language Processing using Python** – *Infosys*
+
+### 💾 Data & Databases
+- 💽 **Database Management System** – *Infosys Springboard*
+- 🍃 **MongoDB Basics** – *ICT Academy Learnathon*
+
+### 🌍 Networking & Web Development
+- 🌐 **Network Fundamentals** – *Infosys*
+- 🎨 **Twitter Bootstrap** – *ICT Academy Learnathon*
+
+### 🧠 Core Computer Science & Algorithms
+- 🧮 **Algorithmic Toolbox** – *Coursera*
+
+### 🎯 Design & Innovation
+- 🧑‍🎨 **Human-Centered Design for Inclusive Innovation** – *Coursera*
+
 
 ### 📈 GitHub Stats
 
