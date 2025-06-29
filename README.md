@@ -1,22 +1,30 @@
 <!-- README.md -->
 
-<!-- Banner -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=3F7EBB&background=FFFFFF00&center=true&vCenter=true&width=900&lines=Hey!+I'm+Amir+Sohel;Aspiring+SDE+%7C+Full+Stack+Developer;Spring+Boot+%7C+MERN+%7C+DSA+Lover;Welcome+to+my+GitHub+Profile!+👨‍💻" alt="Typing SVG" />
-
+<!-- Hero Banner -->
+<!-- Typing Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Amir+Sohel;Aspiring+Software+Developer;Full+Stack+Developer+%7C+Java+%26+MERN;Spring+Boot+%7C+React+%7C+Node.js;ML+%7C+AI+%7C+DSA+Lover;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing Animation">
+</p>
+
+<!-- Horizontal Hero Cover Image -->
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTExNzM3MjksIm5iZiI6MTc1MTE3MzQyOSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI5VDA1MDM0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYzMTQ2YTRmNWFmMzZkYjJkYjljNmZmOWNlY2YwZDMzMzljNjExOTgxYjFiYzA2ZjhhMGIwZGVlNGZlODU0ODkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sx7O4JNDVvqQ1JrivcyB_KzsV-ogIlWffVkiImtpku0" alt="Hero Banner" width="100%" height="auto">
 </p>
 
 ---
 
+
 ### 👨‍💻 About Me
-- 🧑‍🎓 Final Year **CSE Student** at NIET, Greater Noida.
-- 💻 I love crafting full-stack solutions using `Spring Boot`, `React`, and `MongoDB/MySQL`.
-- ⚡ Over **1000+ DSA problems** solved on LeetCode & GFG.
-- 🌱 Learning **System Design** & contributing to **Open Source**.
-- 💬 Ask me about Java, React, DSA, or API development.
+
+- 🎓 Final Year **Computer Science Engineering** student at **NIET, Greater Noida**.
+- 💻 Passionate about building robust full-stack applications using **Spring Boot**, **React**, **MongoDB**, and **MySQL**.
+- 🧠 Skilled in **Java**, **Python** with strong foundations in **Data Structures & Algorithms (DSA)**.
+- 📊 Proficient in **Machine Learning**, **NLP**, and **TensorFlow**, with projects in sentiment analysis and regression.
+- 🧾 Certified in **Java, Python, AI/ML, DBMS, Networking**, and **Design Thinking** from **Coursera**, **Infosys Springboard**, and **ICT Academy**.
+- 💬 Feel free to reach out about **Java, Spring Boot, React, DSA, APIs, or AI/ML projects**.
 
 ---
+
 
 ### 🚀 Tech Stack
 
