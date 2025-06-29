@@ -3,7 +3,7 @@
 <!-- Hero Banner -->
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Amir+Sohel;Aspiring+Software+Developer;Full+Stack+Developer+%7C+Java+%26+MERN;Spring+Boot+%7C+React+%7C+Node.js;ML+%7C+AI+%7C+DSA+Lover;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Amir+Sohel;Aspiring+Software+Developer;Full+Stack+Developer+%7C+Java+%26+MERN;Spring+Boot+%7C+React+%7C+Node.js;ML+%7C+AI+%7C+DSA+;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing Animation">
 </p>
 
 <!-- Horizontal Hero Cover Image -->
