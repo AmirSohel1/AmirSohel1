@@ -96,7 +96,7 @@
 
 ### 💾 Data & Databases
 - 💽 **Database Management System** – *Infosys Springboard*
-- 🍃 **MongoDB Basics** – *ICT Academy Learnathon*
+- 🍃 **MongoDB Basics** – *Infosys*
 
 ### 🌍 Networking & Web Development
 - 🌐 **Network Fundamentals** – *Infosys*
