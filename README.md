@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Final Year **Computer Science Engineering** student at **NIET, Greater Noida**.
-- 💻 Passionate about building robust full-stack applications using **Spring Boot**, **React**, **MongoDB**, and **MySQL**.
+- 💻 Passionate about building robust full-stack applications using **Spring Boot**,*Web Technology** , **React**, **MongoDB**, and **MySQL**.
 - 🧠 Skilled in **Java**, **Python** with strong foundations in **Data Structures & Algorithms (DSA)**.
 - 📊 Proficient in **Machine Learning**, **NLP**, and **TensorFlow**, with projects in sentiment analysis and regression.
 - 🧾 Certified in **Java, Python, AI/ML, DBMS, Networking**, and **Design Thinking** from **Coursera**, **Infosys Springboard**, and **ICT Academy**.
